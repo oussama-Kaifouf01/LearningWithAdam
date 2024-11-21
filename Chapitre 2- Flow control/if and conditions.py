@@ -9,5 +9,5 @@ x = 50
 
 if(x%2==0):
     print("x est pair")
-if(x%2==1):
+elif(x%2==1):
     print("x est impair")
